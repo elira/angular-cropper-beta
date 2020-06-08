@@ -1,0 +1,12 @@
+{
+  "name": "angular-cropper-beta",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.15",
+    "@angular/core": "^7.2.15",
+    "cropperjs": "^1.5.7"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
