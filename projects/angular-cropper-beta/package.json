@@ -1,6 +1,30 @@
 {
+  "description": "CropperJS integration for Angular +7",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elira/angular-cropper-beta"
+  },
+  "author": {
+    "name": "Eli Rabinovitz",
+    "email": "eli.rabinovitz@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular8",
+    "angular9",
+    "angular-library",
+    "angular-component",
+    "cropperjs",
+    "cropper",
+    "image"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elira/angular-cropper-beta/issues"
+  },
   "name": "angular-cropper-beta",
-  "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^7.2.15",
     "@angular/core": "^7.2.15",
